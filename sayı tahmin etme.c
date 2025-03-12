@@ -29,7 +29,7 @@ int tahmin(){
         
     }
     if(skor == 1){
-        printf("KAYBETTINIZ BASKA SAYIYLA TEKRAR DENEYIN-->");
+        printf("KAYBETTINIZ BASKA SAYIYLA TEKRAR DENEYIN-->\n");
         return tahmin();
     }
     else{
